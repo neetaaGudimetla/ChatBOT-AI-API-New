@@ -167,3 +167,13 @@ To https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
 
 E:\AI-Related\ChatBOT-AI-API-New>
 =========================== REDEPLOY ====================================
+
+
+https://chat-bot-ai-api-new.vercel/product
+chat-bot-ai-api-new.vercel.app
+chatpdfaibot.vercel.app
+
+
+https://bear-express.vercel.app/api/product
+
+https://chat-bot-ai-api-new.vercel.com/product

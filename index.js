@@ -156,7 +156,7 @@ async function runQAUrlBlob(query, blob) {
 const app = express();
 app.use(bodyParser.json());
 app.use(cors());
-const port = 3000;
+//const port = 3000;
 
 app.get("/qa", async (req, res) => {
     try {
@@ -613,8 +613,11 @@ app.get("/product", async (req, res) => {
     }
 });
 
+const PORT = process.env.PORT || 5050;
 
-app.listen(3000, () => console.log("Server started on " + port));
+//app.listen(3000, () => console.log("Server started on " + port));
+app.listen(PORT, () => console.log(`Server is running on PORT ${PORT}`));
+
 
 //run server and test api by sending GET requests like following:
 //http://localhost:3000/qa?query="question?"
