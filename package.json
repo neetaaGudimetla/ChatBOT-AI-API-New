@@ -1,19 +1,19 @@
 {
-  "name": "chatgpt-pdfreader",
+  "name": "chat-bot-ai-api-new",
   "version": "1.0.0",
   "description": "",
-  "main": "aibotapi.js",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
   "type": "module",
   "scripts": {
-    "start": "node aibotapi.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": ">=18.12.1"
-  },
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
