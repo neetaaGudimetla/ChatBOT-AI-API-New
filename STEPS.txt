@@ -13,3 +13,133 @@ remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (5/5), 5.47 KiB | 44.00 KiB/s, done.
 
 E:\AI-Related>
+====================================================================================
+git add .
+git commit -m "Initial Project"
+git push origin main
+====================================================================================
+
+E:\AI-Related\ChatBOT-AI-API-New>cd ..
+
+E:\AI-Related>git clone https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
+Cloning into 'ChatBOT-AI-API-New'...
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (5/5), 5.47 KiB | 44.00 KiB/s, done.
+
+E:\AI-Related>cd ChatBOT-AI-API-New
+
+E:\AI-Related\ChatBOT-AI-API-New>dir
+ Volume in drive E is DATA
+ Volume Serial Number is 0ED0-D3D0
+
+ Directory of E:\AI-Related\ChatBOT-AI-API-New
+
+09-06-2023  09:38    <DIR>          .
+09-06-2023  09:37    <DIR>          ..
+05-06-2023  17:09                65 .env
+09-06-2023  09:37             2,177 .gitignore
+08-06-2023  20:42            21,873 aibotapi.js
+09-06-2023  09:37            11,558 LICENSE
+08-06-2023  15:07           304,215 package-lock.json
+09-06-2023  09:26               821 package.json
+06-06-2023  09:54               102 pdfjs-dist.d.ts
+09-06-2023  09:37                20 README.md
+09-06-2023  09:38               553 STEPS.txt
+09-06-2023  09:38    <DIR>          uploads
+               9 File(s)        341,384 bytes
+               3 Dir(s)  331,313,672,192 bytes free
+
+E:\AI-Related\ChatBOT-AI-API-New>git add .
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+
+E:\AI-Related\ChatBOT-AI-API-New>git commit -m "Initial Project"
+[main 717dcd3] Initial Project
+ 6 files changed, 8413 insertions(+)
+ create mode 100644 STEPS.txt
+ create mode 100644 aibotapi.js
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 pdfjs-dist.d.ts
+ create mode 100644 uploads/Invoice-for-EPPR-Mobile-Web-Apps.pdf
+
+E:\AI-Related\ChatBOT-AI-API-New>git push origin main
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 152.99 KiB | 11.77 MiB/s, done.
+Total 9 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
+   041c955..717dcd3  main -> main
+
+E:\AI-Related\ChatBOT-AI-API-New>
+
+
+
+chat-bot-ai-api-new.vercel.app
+https://chat-bot-ai-api-new.vercel.app
+
+
+
+E:\AI-Related\ChatBOT-AI-API-New>cd ..
+
+E:\AI-Related>git clone https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
+Cloning into 'ChatBOT-AI-API-New'...
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (5/5), 5.47 KiB | 44.00 KiB/s, done.
+
+E:\AI-Related>cd ChatBOT-AI-API-New
+
+E:\AI-Related\ChatBOT-AI-API-New>dir
+ Volume in drive E is DATA
+ Volume Serial Number is 0ED0-D3D0
+
+ Directory of E:\AI-Related\ChatBOT-AI-API-New
+
+09-06-2023  09:38    <DIR>          .
+09-06-2023  09:37    <DIR>          ..
+05-06-2023  17:09                65 .env
+09-06-2023  09:37             2,177 .gitignore
+08-06-2023  20:42            21,873 aibotapi.js
+09-06-2023  09:37            11,558 LICENSE
+08-06-2023  15:07           304,215 package-lock.json
+09-06-2023  09:26               821 package.json
+06-06-2023  09:54               102 pdfjs-dist.d.ts
+09-06-2023  09:37                20 README.md
+09-06-2023  09:38               553 STEPS.txt
+09-06-2023  09:38    <DIR>          uploads
+               9 File(s)        341,384 bytes
+               3 Dir(s)  331,313,672,192 bytes free
+
+E:\AI-Related\ChatBOT-AI-API-New>git add .
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+
+E:\AI-Related\ChatBOT-AI-API-New>git commit -m "Initial Project"
+[main 717dcd3] Initial Project
+ 6 files changed, 8413 insertions(+)
+ create mode 100644 STEPS.txt
+ create mode 100644 aibotapi.js
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 pdfjs-dist.d.ts
+ create mode 100644 uploads/Invoice-for-EPPR-Mobile-Web-Apps.pdf
+
+E:\AI-Related\ChatBOT-AI-API-New>git push origin main
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 152.99 KiB | 11.77 MiB/s, done.
+Total 9 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
+   041c955..717dcd3  main -> main
+
+E:\AI-Related\ChatBOT-AI-API-New>

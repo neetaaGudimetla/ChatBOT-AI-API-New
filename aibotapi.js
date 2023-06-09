@@ -601,6 +601,18 @@ app.get('/deletefile', (req, res) => {
     });
 });
 //------------------ DELETE A FILE -----------------------------
+app.get("/product", async (req, res) => {
+    try {
+        res.json({
+            status: 200,
+            message: 'Got Product Data successfully',
+        });
+    } catch (error) {
+        console.error(error);
+        return res.status(500).send("Server error");
+    }
+});
+
 
 app.listen(3000, () => console.log("Server started on " + port));
 
@@ -609,3 +621,15 @@ app.listen(3000, () => console.log("Server started on " + port));
 //node chain.js
 //
 //E:\AI-Related\168-multi-file-upload-angular-firebase-master\pdfReader-chatWithPDFs-main>node chain.js
+
+/* PS E:\AI-Related\ChatBOT-AI-API-New> npm start
+
+> chatgpt-pdfreader@1.0.0 start
+> node aibotapi.js
+
+CHAT-BOT AI API KEY : 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
+Server started on 3000 
+
+http://localhost:3000/product
+{"status":200,"message":"Got Product Data successfully"}
+*/
