@@ -2,7 +2,7 @@
   "name": "chatgpt-pdfreader",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "aibotapi.js",
   "type": "module",
   "scripts": {
     "start": "node aibotapi.js",

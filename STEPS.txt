@@ -143,3 +143,27 @@ To https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
    041c955..717dcd3  main -> main
 
 E:\AI-Related\ChatBOT-AI-API-New>
+
+=========================== REDEPLOY ====================================
+
+E:\AI-Related\ChatBOT-AI-API-New>git add .
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+
+E:\AI-Related\ChatBOT-AI-API-New>git commit -m "Initial Project revised"
+[main c08e55d] Initial Project revised
+ 3 files changed, 157 insertions(+), 2 deletions(-)
+
+E:\AI-Related\ChatBOT-AI-API-New>git push
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 1.68 KiB | 1.68 MiB/s, done.
+Total 5 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/neetaaGudimetla/ChatBOT-AI-API-New.git
+   717dcd3..c08e55d  main -> main
+
+E:\AI-Related\ChatBOT-AI-API-New>
+=========================== REDEPLOY ====================================
